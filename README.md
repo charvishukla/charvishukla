@@ -1,12 +1,25 @@
-### Hi there 👋
+## Hi there 👋
 
+I am a fourth year undergraduate student at UC San Diego 🔱, pursuing a dual degree in Mathematics-Computer Science 👩🏽‍💻 and Cognitive Science 🧠 with a specialization in Machine Learning and Neural Computation. My research interests lie in medical and autonomous driving applications of Computer Vision. 
+[email](mailto:shukla.charvie@gmail.com) • [website](https://www.charvishukla.com) • [linkedin](https://www.linkedin.com/in/charvi-shukla/) 
+
+### Currently...
+-  🔭 I'm currently working as a Research Assistant at [Advanced Robotics and Controls Lab at UCSD](https://www.ucsdarclab.com).
+  
+### Previously...
+- 🔶 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/) as a Hack Technical Events Director.
+  - I worked with my fellow board members to curate a 8-week long crash course on a MERN Stack App development workshop series called [HackSchool](https://hack.acmucsd.com/hack-school). During the workshop, students created a web-based Type Racer game!
+  - In the following quarters, I hosted multiple web-development related workshops with my friend [@AVERGNET)](https://github.com/AVERGNET). This included a two-part workshop on a Chrome Extension that uses Google Gemini to summarize your lecture transcript.
+- 🤖 [WiseCounsel.ai](https://www.wisecounsel.ai) as a Machine Learning Intern. I created a core negotiation engine CLI for WiseCounsel's end-to-end deal-making platform.
+- 📓 [Academic Achievement Hub](https://aah.ucsd.edu) as a Supplemental Instruction Leader. I assisted TAs in discussions, and held my own sessions for tutoring Linear Algebra (MATH 18).
+- 🖥️ [Computer Scienece and Engineering Department @ UCSD](https://cse.ucsd.edu) as a Tutor for CSE 30: Computer Organization and Systems Programming.
 <!--
-**charvishukla/charvishukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
