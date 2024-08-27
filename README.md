@@ -5,7 +5,7 @@ I am a fourth year undergraduate student at UC San Diego 🔱, pursuing a dual d
 
 ### Currently...
 -  🔭 Working as a Research Assistant at [Advanced Robotics and Controls Lab at UCSD](https://www.ucsdarclab.com).
--  🚀 Building a state machine for [WiseCounsel.ai's](https://www.wisecounsel.ai) deal room verification. 
+-  🚀 Building a state machine for [WiseCounsel.ai's](https://www.wisecounsel.ai) deal-room verification and E2E testing. 
   
 ### Previously...
 - 🔶 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/) as a Hack Technical Events Director.
