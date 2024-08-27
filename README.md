@@ -4,7 +4,8 @@ I am a fourth year undergraduate student at UC San Diego 🔱, pursuing a dual d
 [email](mailto:shukla.charvie@gmail.com) • [website](https://www.charvishukla.com) • [linkedin](https://www.linkedin.com/in/charvi-shukla/) 
 
 ### Currently...
--  🔭 I'm currently working as a Research Assistant at [Advanced Robotics and Controls Lab at UCSD](https://www.ucsdarclab.com).
+-  🔭 Working as a Research Assistant at [Advanced Robotics and Controls Lab at UCSD](https://www.ucsdarclab.com).
+-  🚀 Building a state machine for [WiseCounsel.ai's](https://www.wisecounsel.ai) deal room verification. 
   
 ### Previously...
 - 🔶 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/) as a Hack Technical Events Director.
