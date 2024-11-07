@@ -16,7 +16,11 @@ I am a fourth year undergraduate student at **UC San Diego** 🔱, pursuing a du
 - 🚀 [WiseCounsel.ai](https://www.wisecounsel.ai) as a SWE Intern. I created a core negotiation engine CLI for WiseCounsel's end-to-end deal-making platform and built a state machine for [WiseCounsel.ai's](https://www.wisecounsel.ai) deal-room verification and E2E testing. 
 - 📓 [Academic Achievement Hub](https://aah.ucsd.edu) as a Supplemental Instruction Leader. I assisted TAs in discussions, and held my own sessions for tutoring Linear Algebra (MATH 18).
 - 🖥️ [Computer Scienece and Engineering Department @ UCSD](https://cse.ucsd.edu) as a Tutor for CSE 30: Computer Organization and Systems Programming and CSE105: Theory of Computation. 
+
+
+
 <!--
+![](https://github-readme-stats.vercel.app/api?username=charvishukla&show_icons=true&theme=dark)
 
 
 Here are some ideas to get you started:
