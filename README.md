@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a fourth year undergraduate student at UC San Diego 🔱, pursuing a dual degree in Mathematics-Computer Science 👩🏽‍💻 and Cognitive Science 🧠 with a specialization in Machine Learning and Neural Computation. My research interests lie in medical and autonomous driving applications of Computer Vision. 
+I am a fourth year undergraduate student at **UC San Diego** 🔱, pursuing a dual degree in Mathematics-Computer Science 👩🏽‍💻 and Cognitive Science 🧠 with a specialization in Machine Learning and Neural Computation. My research interests lie in medical and autonomous driving applications of Computer Vision. 
 [email](mailto:shukla.charvie@gmail.com) • [website](https://www.charvishukla.com) • [linkedin](https://www.linkedin.com/in/charvi-shukla/) 
 
 ### Soon...
