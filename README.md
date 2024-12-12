@@ -21,14 +21,14 @@ I am a fourth year undergraduate student at **UC San Diego** 🔱, pursuing a du
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=charvishukla&show_icons=true&theme=dark)
+
 
 
 <!--
 
 
 Here are some ideas to get you started:
-
+![](https://github-readme-stats.vercel.app/api?username=charvishukla&show_icons=true&theme=dark)
 - 🔭 I’m currently working on ...
 -  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
