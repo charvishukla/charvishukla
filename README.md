@@ -4,7 +4,7 @@ I am a fourth year undergraduate student at **UC San Diego** 🔱, pursuing a du
 [email](mailto:shukla.charvie@gmail.com) • [website](https://www.charvishukla.com) • [linkedin](https://www.linkedin.com/in/charvi-shukla/) 
 
 ### Soon...
--  🍎 Will be joining [Apple Inc.](https://www.apple.com/careers/in/work-at-apple.html) as a Tools and Automations Intern in from February to June 2025
+-  🍎 Will be joining [Apple Inc.](https://www.apple.com/careers/in/work-at-apple.html) as a Tools and Automations Intern in their San Diego office from February to June 2025
 -  🧠 Will be joining [Brain Corporation](https://www.braincorp.com) as a SWE Intern in Summer 2025 as a part of the Sense Tools Team. 
 
 ### Currently...
