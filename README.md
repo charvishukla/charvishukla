@@ -3,7 +3,7 @@
 I am a fourth year undergraduate student at **UC San Diego** 🔱, pursuing a dual degree in Mathematics-Computer Science 👩🏽‍💻 and Cognitive Science 🧠 with a specialization in Machine Learning and Neural Computation. My research interests lie in medical and autonomous driving applications of Computer Vision. 
 [email](mailto:shukla.charvie@gmail.com) • [website](https://www.charvishukla.com) • [linkedin](https://www.linkedin.com/in/charvi-shukla/) 
 
-### Soon...
+<!--### Soon...
 -  🍎 Will be joining [Apple Inc.](https://www.apple.com/careers/in/work-at-apple.html) as a Tools and Automations Intern in their San Diego office from February to June 2025
 -  🧠 Will be joining [Brain Corporation](https://www.braincorp.com) as a SWE Intern in Summer 2025 as a part of the Sense Tools Team. 
 
@@ -19,9 +19,7 @@ I am a fourth year undergraduate student at **UC San Diego** 🔱, pursuing a du
 - 🖥️ [Computer Scienece and Engineering Department @ UCSD](https://cse.ucsd.edu) as a Tutor for CSE 30: Computer Organization and Systems Programming and CSE105: Theory of Computation. 
 
 
-
-
-
+-->
 
 
 
